@@ -29,10 +29,3 @@ If you see this error when trying to run App.java from eclipse, it means that yo
 1) When adding a new POJO (Plain Old Java Object) class, make sure that BaseData is extended to ensure that the DataHandler will work smoothly
 2) use ONLY the scanner in IOHelper.java, multiple scanners causes problems. (Reference it by calling e.g. 'IOHelper.sc.next()')
 3) SLF4J LOG4J is added, feel free to log using LoggerFactory
-
-
-#### Each task has been modularized to facilitate minimal code collisions
-1) Menu Module - Sebastian
-2) Order Module - Jeff / Ryan
-3) Promotion Module - Evan
-4) Reservation Module - Austin
