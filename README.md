@@ -1,5 +1,12 @@
-# Getting started with CZ2002
+# Object Oriented Programming
+### Restaurant Reservation and Point of Sale System with Java
 
+Note that this application was created as a project by:
+• Jefferson Liew
+• Austin Teo
+• Sebastian Cheong
+• Ryan Wong
+• Evan Sean Sainani
 
 ## Getting started
 This project is a java maven project. If you have any external library dependencies, add them into the project's pom.xml (Don't forget to commit pom.xml too!)
